@@ -1,0 +1,8 @@
+# Node / NPM 
+node_modules/*
+npm-debug.log
+
+# WebStorm configuration files.
+/.idea
+/development
+*.iml
