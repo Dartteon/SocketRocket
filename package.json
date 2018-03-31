@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha --exit"
   },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/Dartteon/SocketRocket"
+  },
   "author": "Baron Chan (Dartteon)",
   "license": "ISC",
   "devDependencies": {
